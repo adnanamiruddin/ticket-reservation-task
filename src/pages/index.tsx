@@ -28,7 +28,7 @@ export default function Home() {
   );
 
   return (
-    <div className="w-full min-h-screen p-4 mx-auto md:max-w-xl md:p-4 md:border-2 md:border-gray-300 md:rounded-lg md:my-8">
+    <div className="w-full min-h-screen p-4 mx-auto md:max-w-xl md:p-4 md:border-2 md:border-gray-300 md:rounded-lg md:my-8 md:min-h-[90vh]">
       <div className="relative">
         <input
           type="text"
